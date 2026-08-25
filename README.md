@@ -8,13 +8,11 @@ A fully interactive 3D web experience built around a GLB model viewer, featuring
 
 ## Live Demo
 
-🔗 [triaxis.vercel.app](https://tri-axis-kappa.vercel.app/)
+🔗 [triaxis.vercel.app](https://triaxis.vercel.app)
 
 ---
 
 ## Preview
-
-![TriAxis Hero](public/mew.glb)
 
 > The hero section displays an interactive 3D Mew model with orbit controls — rotate, zoom, and pan in real time.
 
@@ -89,7 +87,7 @@ triaxis/
 
 ```bash
 # Clone the repo
-git clone https://github.com/rajdeep1508/triaxis.git
+git clone https://github.com/YOUR_USERNAME/triaxis.git
 cd triaxis
 
 # Install dependencies
