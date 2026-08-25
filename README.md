@@ -12,12 +12,6 @@ A fully interactive 3D web experience built around a GLB model viewer, featuring
 
 ---
 
-## Preview
-
-> The hero section displays an interactive 3D Mew model with orbit controls — rotate, zoom, and pan in real time.
-
----
-
 ## Features
 
 - **Interactive 3D Viewer** — Drag to rotate, scroll to zoom, right-click to pan
