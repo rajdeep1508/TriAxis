@@ -8,7 +8,7 @@ A fully interactive 3D web experience built around a GLB model viewer, featuring
 
 ## Live Demo
 
-🔗 [triaxis.vercel.app](https://triaxis.vercel.app)
+🔗 [triaxis.vercel.app](https://tri-axis-kappa.vercel.app/)
 
 ---
 
